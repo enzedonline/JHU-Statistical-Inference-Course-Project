@@ -190,7 +190,7 @@ Across all dosages, although there is probable cause to believe that supplement 
 
 Drilling down into the dosage levels however, we see that dosage levels at 0.5 and 1.0 mg/day do show a significant difference and only the higher dosage of 2.0 shows insignificant difference between supplements.
 
-Therefore, we reject $H_{02}$ & $H_{03}$ while failing to reject $H_{04}$.
+Therefore, we reject $H_{02}$ & $H_{03}$ while failing to reject $H_{01}$ & $H_{04}$.
 
 \
 
